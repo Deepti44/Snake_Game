@@ -7,13 +7,6 @@ A simple and fun **Snake Game** built using **HTML**, **CSS**, and **JavaScript*
 
 ---
 
-## 📸 Preview
-
-![Preview](<Screenshot 2025-06-19 154713.png>)
-![Preview](<Screenshot 2025-06-19 154603.png>)
-
----
-
 ## 🚀 Features
 
 - 🎮 Arrow key movement
