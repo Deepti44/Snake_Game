@@ -71,4 +71,4 @@ A simple and fun **Snake Game** built using **HTML**, **CSS**, and **JavaScript*
 📃 License
 
 This project is open-source and free to use for learning and fun!
->>>>>>> c5b9993 (Added README file)
+
